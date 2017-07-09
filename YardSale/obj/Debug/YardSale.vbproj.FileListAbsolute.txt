@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\bin\Debug\YardSale.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\bin\Debug\YardSale.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\bin\Debug\YardSale.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\bin\Debug\YardSale.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\obj\Debug\YardSale.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\obj\Debug\YardSale.frmYardSale.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\obj\Debug\YardSale.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\obj\Debug\YardSale.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\obj\Debug\YardSale.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\YardSale\YardSale\obj\Debug\YardSale.pdb
